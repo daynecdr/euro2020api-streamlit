@@ -1,0 +1,463 @@
+id,name,nationality,position,overall,age,potential,team
+0,Daniel Bachmann,Austria,GK,69,26,75,Watford 
+1,Pavao Pervan,Austria,GK,73,32,73,VfL Wolfsburg 
+2,Alexander Schlager,Austria,GK,74,24,80,LASK Linz 
+3,David Alaba,Austria,LB|CB,83,28,84,FC Bayern München 
+4,Marco Friedl,Austria,LB|CB,68,22,75,SV Werder Bremen 
+5,Martin Hinteregger,Austria,CB,81,27,83,Eintracht Frankfurt 
+6,Stefan Lainer,Austria,RB,79,27,80,Borussia Mönchengladbach 
+7,Philipp Lienhart,Austria,CB,71,24,76,Sport-Club Freiburg 
+8,Stefan Posch,Austria,RB|CB,74,23,80,TSG 1899 Hoffenheim 
+9,Andreas Ulmer,Austria,LB|LWB|LM|LW,75,34,75,FC Red Bull Salzburg 
+10,Julian Baumgartlinger,Austria,CDM,78,32,78,Bayer 04 Leverkusen 
+11,Christoph Baumgartner,Austria,CAM|LW,70,20,82,TSG 1899 Hoffenheim 
+12,Florian Grillitsch,Austria,CDM|CM,79,24,83,TSG 1899 Hoffenheim 
+13,Stefan Ilsanker,Austria,CB|CDM,76,31,76,Eintracht Frankfurt 
+14,Konrad Laimer,Austria,RB|CDM|CM,80,23,85,RB Leipzig 
+15,Valentino Lazaro,Austria,RWB|RB|RM|RW,77,24,82,Newcastle United 
+16,Karim Onisiwo,Austria,ST|RM,75,28,75,1. FSV Mainz 05 
+17,Marcel Sabitzer,Austria,CM|CAM,83,26,85,RB Leipzig 
+18,Louis Schaub,Austria,RM|CAM,75,25,79,Hamburger SV 
+19,Xaver Schlager,Austria,CDM|CM|CAM,77,22,84,VfL Wolfsburg 
+20,Alessandro Schöpf,Austria,RWB|RM|CM|RW,75,26,76,FC Schalke 04 
+21,Christopher Trimmel,Austria,RB,73,33,73,1. FC Union Berlin 
+22,Michael Gregoritsch,Austria,ST|CAM,76,26,79,FC Schalke 04 
+23,Thibaut Courtois,Belgium,GK,88,28,89,Real Madrid 
+24,Matz Sels,Belgium,GK,79,28,81,RC Strasbourg Alsace 
+25,Thomas Kaminski,Belgium,GK,74,27,77,KAA Gent 
+26,Toby Alderweireld,Belgium,CB,86,31,86,Tottenham Hotspur 
+27,Dedryck Boyata,Belgium,CB,77,29,77,Hertha BSC 
+28,Timothy Castagne,Belgium,RM|LM,76,24,81,Atalanta 
+29,Jason Denayer,Belgium,CB,80,25,86,Olympique Lyonnais 
+30,Thomas Meunier,Belgium,RB|RM,81,28,81,Paris Saint-Germain 
+31,Thomas Vermaelen,Belgium,CB,77,34,77,Vissel Kobe 
+32,Jan Vertonghen,Belgium,LB|CB,85,33,85,Tottenham Hotspur 
+33,Nacer Chadli,Belgium,CAM|LW,78,30,78,RSC Anderlecht 
+34,Yannick Carrasco,Belgium,LM,83,26,84,Atlético Madrid 
+35,Kevin De Bruyne,Belgium,CM|CAM,91,29,91,Manchester City 
+36,Leander Dendoncker,Belgium,CB|CDM,79,25,84,Wolverhampton Wanderers 
+37,Eden Hazard,Belgium,ST|LW,91,29,91,Real Madrid 
+38,Thorgan Hazard,Belgium,RM|LM|CF,83,27,83,Borussia Dortmund 
+39,Dennis Praet,Belgium,CM|CAM,77,26,80,Leicester City 
+40,Youri Tielemans,Belgium,CM,81,23,87,Leicester City 
+41,Hans Vanaken,Belgium,CM|CAM,80,27,80,Club Brugge KV 
+42,Axel Witsel,Belgium,CDM|CM,85,31,85,Borussia Dortmund 
+43,Michy Batshuayi,Belgium,ST,79,26,82,Chelsea 
+44,Christian Benteke,Belgium,ST,73,29,73,Crystal Palace 
+45,Romelu Lukaku,Belgium,ST,86,27,87,Inter 
+46,Dries Mertens,Belgium,ST|CF,87,33,87,Napoli 
+47,Leandro Trossard,Belgium,LM|LW,78,25,81,Brighton & Hove Albion 
+48,Simon Sluga,Croatia,GK,66,27,70,Luton Town 
+49,Dejan Lovren,Croatia,CB,80,31,80,Liverpool 
+50,Domagoj Vida,Croatia,RB|CB,79,31,79,Besiktas JK 
+51,Šime Vrsaljko,Croatia,RB,80,28,80,Atlético Madrid 
+52,Milan Badelj,Croatia,CDM|CM,77,31,77,Fiorentina 
+53,Luka Ivanušec,Croatia,LM|CM|CAM,72,21,82,Dinamo Zagreb 
+54,Josip Brekalo,Croatia,LM|LW,76,22,84,VfL Wolfsburg 
+55,Ante Budimir,Croatia,ST,76,29,76,RCD Mallorca 
+56,Tomáš Koubek,Czech Republic,GK,74,27,76,FC Augsburg 
+57,Tomáš Vaclík,Czech Republic,GK,81,31,81,Sevilla FC 
+58,Jakub Brabec,Czech Republic,CB,75,27,77,Viktoria Plzen 
+59,Vladimír Coufal,Czech Republic,RB,77,27,78,SK Slavia Praha 
+60,Tomáš Kalas,Czech Republic,CB,72,27,76,Bristol City 
+61,Tomáš Holeš,Czech Republic,RB|RM|LM,73,27,74,SK Slavia Praha 
+62,David Zima,Czech Republic,CB,69,19,82,SK Slavia Praha 
+63,Antonín Barák,Czech Republic,CM|CAM,76,25,79,Lecce 
+64,Vladimír Darida,Czech Republic,CDM|CM|CAM,77,29,77,Hertha BSC 
+65,Jakub Jankto,Czech Republic,LM|CM,74,24,81,Sampdoria 
+66,Alex Král,Czech Republic,CB|CDM|CM,74,22,84,Spartak Moscow 
+67,Lukáš Masopust,Czech Republic,ST|RM|LM,75,27,75,SK Slavia Praha 
+68,Michal Sadílek,Czech Republic,LB|CDM,71,21,78,PSV 
+69,Tomáš Pekhart,Czech Republic,ST,68,31,68,Legia Warszawa 
+70,Patrik Schick,Czech Republic,ST|CF|RW,78,24,84,RB Leipzig 
+71,Jonas Lössl,Denmark,GK,74,31,74,Huddersfield Town 
+72,Frederik Rønnow,Denmark,GK,75,27,77,Eintracht Frankfurt 
+73,Kasper Schmeichel,Denmark,GK,83,33,83,Leicester City 
+74,Joachim Andersen,Denmark,CB,77,24,83,Olympique Lyonnais 
+75,Nicolai Boilesen,Denmark,LB,71,28,71,FC København 
+76,Andreas Christensen,Denmark,CB,80,24,85,Chelsea 
+77,Mathias Jørgensen,Denmark,ST|CF,60,19,77,New York Red Bulls 
+78,Simon Kjær,Denmark,CB,81,31,81,Milan 
+79,Joakim Mæhle,Denmark,RB,76,23,83,KRC Genk 
+80,Jens Stryger Larsen,Denmark,RB|CB|RM,74,29,74,Udinese 
+81,Jannik Vestergaard,Denmark,CB,77,27,78,Southampton 
+82,Anders Christiansen,Denmark,CDM|CM,75,30,75,Malmö FF 
+83,Thomas Delaney,Denmark,CDM|CM,82,28,83,Borussia Dortmund 
+84,Christian Eriksen,Denmark,RM|CM|CAM,87,28,87,Inter 
+85,Pierre-Emile Højbjerg,Denmark,CM,79,24,84,Southampton 
+86,Mathias Jensen,Denmark,CM,73,24,79,Brentford 
+87,Christian Nørgaard,Denmark,CDM|CM,73,26,78,Brentford 
+88,Robert Skov,Denmark,LB|LWB|RM|LW,71,24,77,TSG 1899 Hoffenheim 
+89,Daniel Wass,Denmark,RB|RM|CM,80,31,80,Valencia CF 
+90,Martin Braithwaite,Denmark,ST|LM,76,29,76,FC Barcelona 
+91,Andreas Cornelius,Denmark,ST,75,27,76,Parma 
+92,Mikkel Damsgaard,Denmark,CM|CF|LW,71,20,83,FC Nordsjælland 
+93,Kasper Dolberg,Denmark,ST,79,22,85,OGC Nice 
+94,Andreas Skov Olsen,Denmark,ST|CAM|RW,72,20,83,Bologna 
+95,Yussuf Poulsen,Denmark,ST,80,26,82,RB Leipzig 
+96,Jonas Wind,Denmark,ST,69,21,78,FC København 
+97,Sam Johnstone,England,GK,75,27,79,West Bromwich Albion 
+98,Jordan Pickford,England,GK,81,26,84,Everton 
+99,Aaron Ramsdale,England,GK,75,22,83,AFC Bournemouth 
+100,Ben Chilwell,England,LB,81,23,85,Leicester City 
+101,Conor Coady,England,CB,78,27,80,Wolverhampton Wanderers 
+102,Reece James,England,RB|CDM,75,20,87,Chelsea 
+103,Reece James,England,LB,68,26,71,Doncaster Rovers 
+104,Harry Maguire,England,CB,83,27,86,Manchester United 
+105,Tyrone Mings,England,CB,75,27,78,Aston Villa 
+106,Luke Shaw,England,LB,80,25,82,Manchester United 
+107,John Stones,England,CB,81,26,84,Manchester City 
+108,Kieran Trippier,England,RB,81,29,81,Atlético Madrid 
+109,Kyle Walker,England,RB,83,30,83,Manchester City 
+110,Ben White,England,CB|CDM,75,22,84,Leeds United 
+111,Phil Foden,England,CM|CAM,77,20,89,Manchester City 
+112,Jack Grealish,England,CM|CAM|LW,80,24,85,Aston Villa 
+113,Jordan Henderson,England,CDM|CM,85,30,85,Liverpool 
+114,Mason Mount,England,CM|CAM|RW,79,21,87,Chelsea 
+115,Kalvin Phillips,England,CB|CDM,76,24,82,Leeds United 
+116,Declan Rice,England,CDM|CM,78,21,86,West Ham United 
+117,Bukayo Saka,England,LB|LM|LW,74,18,89,Arsenal 
+118,Jadon Sancho,England,RM|LM|CAM,86,20,94,Borussia Dortmund 
+119,Dominic Calvert-Lewin,England,ST,79,23,84,Everton 
+120,Harry Kane,England,ST,89,27,91,Tottenham Hotspur 
+121,Marcus Rashford,England,ST|LM,84,22,89,Manchester United 
+122,Raheem Sterling,England,RW|LW,88,25,90,Manchester City 
+123,Anssi Jaakkola,Finland,GK,67,33,67,Bristol Rovers 
+124,Jesse Joronen,Finland,GK,75,27,77,Brescia 
+125,Paulus Arajuuri,Finland,CB,69,32,69,Free Agents 
+126,Thomas Lam,Finland,CB,69,26,72,PEC Zwolle 
+127,Jukka Raitala,Finland,RB|LB|CB,68,31,68,Impact Montréal 
+128,Joona Toivio,Finland,CB,66,32,66,BK Häcken 
+129,Jere Uronen,Finland,LB,73,26,77,KRC Genk 
+130,Sauli Väisänen,Finland,CB,68,26,70,Chievo Verona 
+131,Nikolai Alho,Finland,RB|RM|LM,64,27,65,HJK Helsinki 
+132,Fredrik Jensen,Finland,CAM,72,22,79,FC Augsburg 
+133,Glen Kamara,Finland,CM,70,24,77,Rangers FC 
+134,Joni Kauko,Finland,CM,67,30,67,Esbjerg fB 
+135,Robin Lod,Finland,LM,71,27,71,Minnesota United FC 
+136,Rasmus Schüller,Finland,CDM|LM|CM,71,29,72,HJK Helsinki 
+137,Pyry Soiri,Finland,RW|LW,63,25,66,Esbjerg fB 
+138,Tim Sparv,Finland,CDM|CM,69,33,69,FC Midtjylland 
+139,Robert Taylor,Finland,ST|RB|RW,65,25,68,SK Brann 
+140,Onni Valakari,Finland,CM|CAM,64,20,77,Tromsø IL 
+141,Marcus Forss,Finland,ST,65,21,76,Brentford 
+142,Lassi Lappalainen,Finland,LM|LW,68,21,77,Impact Montréal 
+143,Joel Pohjanpalo,Finland,ST,72,25,74,Hamburger SV 
+144,Teemu Pukki,Finland,ST,77,30,77,Norwich City 
+145,Hugo Lloris,France,GK,87,33,87,Tottenham Hotspur 
+146,Mike Maignan,France,GK,82,25,86,LOSC Lille 
+147,Steve Mandanda,France,GK,83,35,83,Olympique de Marseille 
+148,Lucas Digne,France,LB,83,27,86,Everton 
+149,Léo Dubois,France,RB,78,25,82,Olympique Lyonnais 
+150,Lucas Hernández,France,LB|CB,84,24,89,FC Bayern München 
+151,Presnel Kimpembe,France,CB,82,24,86,Paris Saint-Germain 
+152,Jules Koundé,France,CB,78,21,86,Sevilla FC 
+153,Clément Lenglet,France,CB,86,25,90,FC Barcelona 
+154,Benjamin Pavard,France,RB|CB,80,24,85,FC Bayern München 
+155,Raphaël Varane,France,CB,86,27,89,Real Madrid 
+156,Kurt Zouma,France,CB,81,25,84,Chelsea 
+157,Kingsley Coman,France,RM|LM|LW,84,24,88,FC Bayern München 
+158,Thomas Lemar,France,RM|LM|CAM,82,24,86,Atlético Madrid 
+159,Paul Pogba,France,CDM|CM,87,27,88,Manchester United 
+160,Adrien Rabiot,France,CDM|CM,82,25,85,Juventus 
+161,Moussa Sissoko,France,CDM|RM|CM,79,30,79,Tottenham Hotspur 
+162,Corentin Tolisso,France,CDM|CM,82,25,85,FC Bayern München 
+163,Wissam Ben Yedder,France,ST,84,29,84,AS Monaco Football Club SA 
+164,Karim Benzema,France,ST|CF,88,32,88,Real Madrid 
+165,Ousmane Dembélé,France,RW|LW,83,23,90,FC Barcelona 
+166,Olivier Giroud,France,ST,80,33,80,Chelsea 
+167,Antoine Griezmann,France,ST|CF|LW,89,29,89,FC Barcelona 
+168,Kylian Mbappé,France,ST|RW|LW,89,21,95,Paris Saint-Germain 
+169,Marcus Thuram,France,ST|LW,80,22,84,Borussia Mönchengladbach 
+170,Manuel Neuer,Germany,GK,89,34,89,FC Bayern München 
+171,Bernd Leno,Germany,GK,85,28,87,Arsenal 
+172,Kevin Trapp,Germany,GK,83,30,83,Eintracht Frankfurt 
+173,Emre Can,Germany,CDM|CM,82,26,85,Borussia Dortmund 
+174,Matthias Ginter,Germany,CB,82,26,83,Borussia Mönchengladbach 
+175,Robin Gosens,Germany,LM,78,26,81,Atalanta 
+176,Christian Günter,Germany,LB|LWB|LM|LW,76,27,77,Sport-Club Freiburg 
+177,Marcel Halstenberg,Germany,LB|LWB|LW,81,28,81,RB Leipzig 
+178,Mats Hummels,Germany,CB,87,31,87,Borussia Dortmund 
+179,Lukas Klostermann,Germany,RWB|RB|LB|RW,81,24,85,RB Leipzig 
+180,Robin Koch,Germany,CB|CDM,76,24,80,Sport-Club Freiburg 
+181,Antonio Rüdiger,Germany,CB,82,27,84,Chelsea 
+182,Niklas Süle,Germany,CB,85,24,90,FC Bayern München 
+183,Serge Gnabry,Germany,RM|LM|RW,85,25,87,FC Bayern München 
+184,Leon Goretzka,Germany,CDM|CM|CAM,84,25,88,FC Bayern München 
+185,Jonas Hofmann,Germany,RM|CM|CAM,78,28,79,Borussia Mönchengladbach 
+186,Joshua Kimmich,Germany,RB|CDM|CM,87,25,90,FC Bayern München 
+187,Toni Kroos,Germany,CM,89,30,89,Real Madrid 
+188,Florian Neuhaus,Germany,CM|CAM,78,23,86,Borussia Mönchengladbach 
+189,Leroy Sané,Germany,LW,86,24,90,Manchester City 
+190,Kai Havertz,Germany,RM|CAM,84,21,93,Bayer 04 Leverkusen 
+191,Thomas Müller,Germany,RM|CAM|RW,85,30,85,FC Bayern München 
+192,Kevin Volland,Germany,ST|RW|LW,82,27,83,Bayer 04 Leverkusen 
+193,Timo Werner,Germany,ST,86,24,89,RB Leipzig 
+194,Ádám Bogdán,Hungary,GK,66,32,66,Hibernian 
+195,Dénes Dibusz,Hungary,GK,74,29,74,Free Agents 
+196,Péter Gulácsi,Hungary,GK,85,30,86,RB Leipzig 
+197,Ákos Kecskés,Hungary,CB,62,24,70,FC Lugano 
+198,Ádám Lang,Hungary,CB,71,27,73,Free Agents 
+199,Ádám Nagy,Hungary,CDM|CM,74,25,79,Bristol City 
+200,Roland Varga,Hungary,RM|LM,71,30,71,Free Agents 
+201,Filip Holender,Hungary,ST,68,26,71,FC Lugano 
+202,Roland Sallai,Hungary,LM|CF,72,23,78,Sport-Club Freiburg 
+203,Ádám Szalai,Hungary,ST,74,32,74,1. FSV Mainz 05 
+204,Gianluigi Donnarumma,Italy,GK,85,21,92,Milan 
+205,Alex Meret,Italy,GK,78,23,87,Napoli 
+206,Salvatore Sirigu,Italy,GK,84,33,84,Torino 
+207,Francesco Acerbi,Italy,CB,84,32,84,Lazio 
+208,Alessandro Bastoni,Italy,CB,75,21,85,Inter 
+209,Leonardo Bonucci,Italy,CB,86,33,86,Juventus 
+210,Giorgio Chiellini,Italy,CB,88,35,88,Juventus 
+211,Giovanni Di Lorenzo,Italy,RB|RM,75,26,77,Napoli 
+212,Emerson,Italy,LB|LM,78,25,82,Chelsea 
+214,Alessandro Florenzi,Italy,RB,81,29,81,Valencia CF 
+215,Leonardo Spinazzola,Italy,RB|LB|LM,79,27,79,Roma 
+217,Nicolò Barella,Italy,CM|CAM,80,23,88,Inter 
+218,Federico Bernardeschi,Italy,RM|CAM,81,26,83,Juventus 
+219,Federico Chiesa,Italy,CF|RW,78,22,85,Fiorentina 
+220,Bryan Cristante,Italy,CDM|CM|CAM,78,25,82,Roma 
+221,Jorginho,Italy,CDM|CM,84,28,84,Chelsea 
+222,Manuel Locatelli,Italy,CDM|CM,77,22,84,Sassuolo 
+223,Matteo Pessina,Italy,CM|CF,72,23,81,Hellas Verona 
+224,Marco Verratti,Italy,CDM|CM,87,27,88,Paris Saint-Germain 
+225,Gaetano Castrovilli,Italy,CM|CAM,73,23,82,Fiorentina 
+226,Andrea Belotti,Italy,ST,82,26,85,Torino 
+227,Domenico Berardi,Italy,ST|RW,79,25,82,Sassuolo 
+228,Ciro Immobile,Italy,ST,87,30,87,Lazio 
+229,Lorenzo Insigne,Italy,LM|CF|LW,86,29,86,Napoli 
+230,Giacomo Raspadori,Italy,ST,62,20,78,Sassuolo 
+231,Marco Bizot,Netherlands,GK,78,29,80,AZ 
+232,Tim Krul,Netherlands,GK,76,32,76,Norwich City 
+233,Maarten Stekelenburg,Netherlands,GK,72,37,72,Everton 
+234,Nathan Aké,Netherlands,CB,80,25,84,AFC Bournemouth 
+235,Daley Blind,Netherlands,LB|CB|CDM,83,30,83,Ajax 
+236,Matthijs de Ligt,Netherlands,CB,85,20,92,Juventus 
+237,Stefan de Vrij,Netherlands,CB,85,28,86,Inter 
+238,Denzel Dumfries,Netherlands,RB,78,24,82,PSV 
+239,Patrick van Aanholt,Netherlands,LB,76,29,76,Crystal Palace 
+240,Joël Veltman,Netherlands,RB|CB,79,28,80,Ajax 
+241,Owen Wijndal,Netherlands,LB,74,20,84,AZ 
+242,Frenkie de Jong,Netherlands,CM,86,23,92,FC Barcelona 
+243,Marten de Roon,Netherlands,CM,78,29,78,Atalanta 
+244,Ryan Gravenberch,Netherlands,CDM|CM,70,18,87,Ajax 
+245,Davy Klaassen,Netherlands,CM|CAM,78,27,79,SV Werder Bremen 
+246,Teun Koopmeiners,Netherlands,CB|CDM,78,22,85,AZ 
+247,Quincy Promes,Netherlands,CAM|LW,83,28,83,Ajax 
+248,Jurriën Timber,Netherlands,RB|CB,64,19,79,Ajax 
+249,Georginio Wijnaldum,Netherlands,CDM|CM,85,29,85,Liverpool 
+250,Steven Berghuis,Netherlands,RW,81,28,81,Feyenoord 
+251,Luuk de Jong,Netherlands,ST,81,29,81,Sevilla FC 
+252,Memphis Depay,Netherlands,CAM|CF|LW,84,26,87,Olympique Lyonnais 
+253,Cody Gakpo,Netherlands,RW|LW,73,21,83,PSV 
+254,Donyell Malen,Netherlands,ST|LW,77,21,86,PSV 
+255,Wout Weghorst,Netherlands,ST,81,27,82,VfL Wolfsburg 
+256,Stole Dimitrievski,North Macedonia,GK,71,26,75,Rayo Vallecano 
+257,Ezgjan Alioski,North Macedonia,LB|LM,72,28,72,Leeds United 
+258,Egzon Bejtulai,North Macedonia,CB,60,26,65,Helsingborgs IF 
+259,Stefan Ristovski,North Macedonia,RB,76,28,76,Sporting CP 
+260,Gjoko Zajkov,North Macedonia,CB,64,25,68,Sporting Charleroi 
+261,Arijan Ademi,North Macedonia,CDM|CM,75,29,75,Dinamo Zagreb 
+262,Darko Churlinov,North Macedonia,LM|LW,62,20,81,VfB Stuttgart 
+263,Eljif Elmas,North Macedonia,CM,73,20,85,Napoli 
+264,Ferhan Hasani,North Macedonia,CAM|LW,68,30,68,HJK Helsinki 
+265,Goran Pandev,North Macedonia,ST|RW,73,37,73,Genoa 
+266,Vlatko Stojanovski,North Macedonia,ST,64,23,70,Nîmes Olympique 
+267,Aleksandar Trajkovski,North Macedonia,ST|CAM|CF,70,27,71,RCD Mallorca 
+268,Jan Bednarek,Poland,CB,78,24,84,Southampton 
+269,Kamil Glik,Poland,CB,78,32,78,AS Monaco Football Club SA 
+270,Tymoteusz Puchacz,Poland,LB|RM|LM,65,21,79,Lech Poznan 
+271,Maciej Rybus,Poland,LB|LM,73,30,73,Lokomotiv Moscow 
+272,Mateusz Klich,Poland,CM,74,30,74,Leeds United 
+273,Grzegorz Krychowiak,Poland,CDM|CM,79,30,79,Lokomotiv Moscow 
+274,Karol Linetty,Poland,CM,76,25,80,Sampdoria 
+275,Jakub Moder,Poland,CDM|CM,62,21,76,Lech Poznan 
+276,Dawid Kownacki,Poland,ST|RM|LM,72,23,80,Fortuna Düsseldorf 
+277,Robert Lewandowski,Poland,ST,91,31,91,FC Bayern München 
+278,Anthony Lopes,Portugal,GK,84,29,86,Olympique Lyonnais 
+279,Rui Patrício,Portugal,GK,83,32,83,Wolverhampton Wanderers 
+280,Rui Silva,Portugal,GK,78,26,83,Granada CF 
+281,Rúben Dias,Portugal,CB,82,23,88,SL Benfica 
+282,José Fonte,Portugal,CB,79,36,79,LOSC Lille 
+283,Pepe,Portugal,CB,82,37,82,FC Porto 
+284,Nélson Semedo,Portugal,RB,82,26,85,FC Barcelona 
+285,Diogo Dalot,Portugal,RB|LB,75,21,85,Manchester United 
+286,William Carvalho,Portugal,CDM|CM,82,28,82,Real Betis 
+292,Bruno Fernandes,Portugal,CM|CAM,86,25,89,Manchester United 
+293,Gonçalo Guedes,Portugal,ST|LM,82,23,88,Valencia CF 
+294,João Moutinho,Portugal,CM,84,33,84,Wolverhampton Wanderers 
+295,João Moutinho,Portugal,LB,67,22,77,Orlando City Soccer Club 
+296,Rúben Neves,Portugal,CM,82,23,87,Wolverhampton Wanderers 
+297,Sérgio Oliveira,Portugal,CM,79,28,80,FC Porto 
+298,Renato Sanches,Portugal,RM|CM,78,22,85,LOSC Lille 
+299,Bernardo Silva,Portugal,CM|CAM|RW,87,25,90,Manchester City 
+300,João Félix,Portugal,ST|LM|CF,80,20,93,Atlético Madrid 
+301,Diogo Jota,Portugal,CF|LW,80,23,86,Wolverhampton Wanderers 
+302,Cristiano Ronaldo,Portugal,ST|LW,93,35,93,Juventus 
+303,André Silva,Portugal,ST,78,24,83,Eintracht Frankfurt 
+304,Igor Diveev,Russia,CB,70,20,83,PFC CSKA Moscow 
+305,Mário Fernandes,Russia,RWB|RM|RW,82,29,82,PFC CSKA Moscow 
+306,Vyacheslav Karavaev,Russia,RB,73,25,76,Free Agents 
+307,Fedor Kudryashov,Russia,LB|CB|LWB|LW,72,33,72,Antalyaspor 
+308,Denis Cheryshev,Russia,LM,79,29,79,Valencia CF 
+309,Daler Kuzyaev,Russia,CDM|RM|CM,77,27,78,Free Agents 
+310,Magomed Ozdoev,Russia,CDM|CM,77,27,78,Free Agents 
+311,Rifat Zhemaletdinov,Russia,RM|LM,72,23,79,Lokomotiv Moscow 
+312,Roman Zobnin,Russia,CDM|LM|CM,79,26,84,Spartak Moscow 
+313,Artem Dzyuba,Russia,ST,80,31,80,Free Agents 
+314,Craig Gordon,Scotland,GK,71,37,71,Celtic 
+315,David Marshall,Scotland,GK,71,35,71,Wigan Athletic 
+316,Jon McLaughlin,Scotland,GK,69,32,69,Sunderland 
+317,Liam Cooper,Scotland,CB,74,28,75,Leeds United 
+318,Declan Gallagher,Scotland,RB|CB,68,29,69,Motherwell 
+319,Grant Hanley,Scotland,CB,71,28,71,Norwich City 
+320,Jack Hendry,Scotland,CB,66,25,70,Melbourne City 
+321,Scott McKenna,Scotland,CB,71,23,80,Aberdeen 
+322,Greg Taylor,Scotland,LB|LWB|LW,71,22,82,Celtic 
+323,Greg Taylor,England,CB,59,30,59,Cambridge United 
+324,Kieran Tierney,Scotland,LB,77,23,86,Arsenal 
+325,Stuart Armstrong,Scotland,RM|CM,75,28,75,Southampton 
+326,Ryan Christie,Scotland,RM|CM|CAM,76,25,80,Celtic 
+327,John Fleck,Scotland,CM,77,28,77,Sheffield United 
+328,James Forrest,Scotland,RWB|RM|LM|RW,76,29,76,Celtic 
+329,Ryan Fraser,Scotland,LM,79,26,80,AFC Bournemouth 
+330,Billy Gilmour,Scotland,CM|CAM,66,19,86,Chelsea 
+331,John McGinn,Scotland,CM,77,25,82,Aston Villa 
+332,Callum McGregor,Scotland,CDM|CM|CAM,77,27,79,Celtic 
+333,Scott McTominay,Scotland,CDM|CM,79,23,86,Manchester United 
+334,David Turnbull,Scotland,CM|CAM,70,21,84,Motherwell 
+336,Martin Dúbravka,Slovakia,GK,82,31,82,Newcastle United 
+337,Dušan Kuciak,Slovakia,GK,71,35,71,Lechia Gdansk 
+338,Marek Rodák,Slovakia,GK,74,23,81,Fulham 
+339,Dávid Hancko,Slovakia,LB|CB,69,22,81,Sparta Praha 
+340,Peter Pekarík,Slovakia,RB,73,33,73,Hertha BSC 
+341,Milan Škriniar,Slovakia,CB,86,25,90,Inter 
+342,Martin Valjent,Slovakia,CB,74,24,80,RCD Mallorca 
+343,Denis Vavro,Slovakia,CB,72,24,79,Lazio 
+344,László Bénes,Slovakia,CM|CAM,75,22,81,Borussia Mönchengladbach 
+345,Ondrej Duda,Slovakia,CM|CAM,76,25,81,Norwich City 
+346,Ján Greguš,Slovakia,CDM|CM,71,29,71,Minnesota United FC 
+347,Marek Hamšík,Slovakia,CDM|CM|CAM,83,33,83,Dalian YiFang FC 
+348,Lukáš Haraslín,Slovakia,RM|LM,71,24,76,Sassuolo 
+349,Juraj Kucka,Slovakia,CDM|CM,78,33,78,Parma 
+350,Stanislav Lobotka,Slovakia,CDM|CM,79,25,84,Napoli 
+351,Tomáš Suslov,Slovakia,RM|CAM,60,18,81,FC Groningen 
+352,Unai Simón,Spain,GK,79,23,85,Athletic Club 
+353,Jordi Alba,Spain,LB,86,31,86,FC Barcelona 
+354,Pau Torres,Spain,CB,78,23,86,Villarreal CF 
+355,Aymeric Laporte,France,CB,87,26,90,Manchester City 
+356,Eric García,Spain,CB,69,19,85,Manchester City 
+357,Diego Llorente,Spain,CB,77,26,82,Real Sociedad 
+358,Sergio Busquets,Spain,CDM,88,32,88,FC Barcelona 
+359,Koke,Spain,RM|LM|CM,86,28,86,Atlético Madrid 
+360,Marcos Llorente,Spain,CDM|CM,81,25,86,Atlético Madrid 
+361,Dani Olmo,Spain,RM|LM|CAM,80,22,89,RB Leipzig 
+362,Rodri,Spain,CDM|CM,85,24,89,Manchester City 
+363,Rodri,Spain,ST,69,30,69,R. Oviedo 
+364,Pablo Sarabia,Spain,CAM|RW,83,28,84,Paris Saint-Germain 
+365,Adama Traoré,Spain,RWB|RW,78,24,84,Wolverhampton Wanderers 
+369,Gerard Moreno,Spain,ST|RM,82,28,82,Villarreal CF 
+370,Pedri,Spain,LM|CAM,72,17,89,UD Las Palmas 
+371,Karl-Johan Johnsson,Sweden,GK,74,30,75,FC København 
+372,Kristoffer Nordfeldt,Sweden,GK,72,31,72,Gençlerbirligi SK 
+373,Robin Olsen,Sweden,GK,78,30,78,Cagliari 
+374,Ludwig Augustinsson,Sweden,LB|LWB|LM|LW,76,26,79,SV Werder Bremen 
+375,Pierre Bengtsson,Sweden,LB,68,32,68,FC København 
+376,Andreas Granqvist,Sweden,CB,74,35,74,Helsingborgs IF 
+377,Filip Helander,Sweden,CB,74,27,76,Rangers FC 
+378,Pontus Jansson,Sweden,CB,76,29,77,Brentford 
+379,Emil Krafth,Sweden,RB,73,25,77,Newcastle United 
+380,Victor Lindelöf,Sweden,CB,81,26,85,Manchester United 
+381,Mikael Lustig,Sweden,RB|CB,71,33,71,KAA Gent 
+382,Jens-Lys Cajuste,Sweden,CDM|CM,63,20,75,FC Midtjylland 
+383,Albin Ekdal,Sweden,CDM|CM,76,31,76,Sampdoria 
+384,Emil Forsberg,Sweden,LM|CAM,81,28,81,RB Leipzig 
+385,Dejan Kulusevski,Sweden,CAM|RW,74,20,86,Parma 
+386,Sebastian Larsson,Sweden,CDM|CM,74,35,74,AIK 
+387,Kristoffer Olsson,Sweden,CM,74,25,79,Free Agents 
+388,Robin Quaison,Sweden,ST|LM|CAM,76,26,79,1. FSV Mainz 05 
+389,Ken Sema,Sweden,RM|LM,73,26,74,Udinese 
+390,Mattias Svanberg,Sweden,RM|CM,69,21,83,Bologna 
+391,Gustav Svensson,Sweden,CB|CDM|CM,74,33,74,Seattle Sounders FC 
+392,Marcus Berg,Sweden,ST|CF,77,33,77,Free Agents 
+393,Alexander Isak,Sweden,ST,78,20,86,Real Sociedad 
+394,Jordan Larsson,Sweden,ST|CF,72,23,79,Spartak Moscow 
+395,Yvon Mvogo,Switzerland,GK,76,26,81,RB Leipzig 
+396,Yann Sommer,Switzerland,GK,86,31,86,Borussia Mönchengladbach 
+397,Gregor Kobel,Switzerland,GK,72,22,81,VfB Stuttgart 
+398,Manuel Akanji,Switzerland,CB,79,25,85,Borussia Dortmund 
+399,Loris Benito,Switzerland,LB|CB|LM,74,28,74,FC Girondins de Bordeaux 
+400,Eray Cömert,Switzerland,CB,69,22,82,FC Basel 1893 
+401,Nico Elvedi,Switzerland,RB|CB,79,23,84,Borussia Mönchengladbach 
+402,Jordan Lotomba,Switzerland,RB|LB,63,21,77,BSC Young Boys 
+403,Kevin Mbabu,Switzerland,RB,77,25,82,VfL Wolfsburg 
+404,Becir Omeragic,Switzerland,RB|CB,60,18,82,FC Zürich 
+405,Ricardo Rodríguez,Switzerland,LB,78,27,78,PSV 
+406,Fabian Schär,Switzerland,CB,79,28,81,Newcastle United 
+407,Silvan Widmer,Switzerland,RB,76,27,77,FC Basel 1893 
+408,Christian Fassnacht,Switzerland,RM|LM|CAM,75,26,76,BSC Young Boys 
+409,Edimilson Fernandes,Switzerland,CDM|CM,72,24,79,1. FSV Mainz 05 
+410,Remo Freuler,Switzerland,CM,78,28,78,Atalanta 
+411,Xherdan Shaqiri,Switzerland,RM|RW,81,28,81,Liverpool 
+412,Djibril Sow,Switzerland,CM,75,23,84,Eintracht Frankfurt 
+413,Ruben Vargas,Switzerland,RM|LM,73,21,84,FC Augsburg 
+414,Granit Xhaka,Switzerland,CDM|CM,80,27,81,Arsenal 
+415,Denis Zakaria,Switzerland,CB|CDM|CM,82,23,86,Borussia Mönchengladbach 
+416,Steven Zuber,Switzerland,LWB|LM|CM|LW,76,28,76,TSG 1899 Hoffenheim 
+417,Breel Embolo,Switzerland,ST|CAM,77,23,84,Borussia Mönchengladbach 
+418,Admir Mehmedi,Switzerland,CF|RW|LW,77,29,77,VfL Wolfsburg 
+419,Mert Günok,Turkey,GK,77,31,77,Medipol Basaksehir FK 
+420,Kaan Ayhan,Turkey,CB,76,25,79,Fortuna Düsseldorf 
+421,Merih Demiral,Turkey,CB,77,22,86,Juventus 
+422,Ozan Kabak,Turkey,CB,77,20,86,FC Schalke 04 
+423,Mert Müldür,Turkey,RB|CB,68,21,79,Sassuolo 
+424,Orkun Kökçü,Turkey,CM|CAM,75,19,85,Feyenoord 
+425,Abdülkadir Ömür,Turkey,RM|CAM,74,21,83,Trabzonspor 
+426,Dorukhan Toköz,Turkey,CDM|CM,73,24,78,Besiktas JK 
+427,Ozan Tufan,Turkey,RB|CDM|CM,73,25,78,Fenerbahçe SK 
+428,Kenan Karaman,Turkey,ST|LM,73,26,75,Fortuna Düsseldorf 
+429,Enes Ünal,Turkey,ST,77,23,83,R. Valladolid CF 
+430,Cengiz Ünder,Turkey,RM|RW,78,23,84,Roma 
+431,Georgiy Bushchan,Ukraine,GK,71,26,76,Dynamo Kyiv 
+432,Andriy Pyatov,Ukraine,GK,77,36,77,Shakhtar Donetsk 
+433,Oleksandr Karavaev,Ukraine,RB|RM,72,28,72,Dynamo Kyiv 
+434,Vitaliy Mykolenko,Ukraine,LB,74,21,83,Dynamo Kyiv 
+435,Denys Popov,Ukraine,CB,71,21,84,Dynamo Kyiv 
+436,Eduard Sobol,Ukraine,LB|LM,74,25,77,Club Brugge KV 
+437,Oleksandr Zinchenko,Ukraine,LB,79,23,85,Manchester City 
+438,Roman Bezus,Ukraine,CM|CAM,74,29,74,KAA Gent 
+439,Yevhen Makarenko,Ukraine,LB|CDM|CM,70,29,70,KV Kortrijk 
+440,Ruslan Malinovskyi,Ukraine,CDM|CM|CAM,79,27,80,Atalanta 
+441,Marlos,Ukraine,RM|CAM,81,32,81,Shakhtar Donetsk 
+442,Mykola Shaparenko,Ukraine,CM|CAM,73,21,84,Dynamo Kyiv 
+443,Taras Stepanenko,Ukraine,CDM,80,30,80,Shakhtar Donetsk 
+444,Serhiy Sydorchuk,Ukraine,CDM|CM,75,29,75,Dynamo Kyiv 
+445,Viktor Tsygankov,Ukraine,RM|LM,80,22,86,Dynamo Kyiv 
+446,Artem Dovbyk,Ukraine,ST|RW,62,23,72,SønderjyskE 
+447,Roman Yaremchuk,Ukraine,ST|LM,76,24,80,KAA Gent 
+448,Andriy Yarmolenko,Ukraine,RM|RW,78,30,78,West Ham United 
+449,Adam Davies,Wales,GK,70,28,74,Stoke City 
+450,Wayne Hennessey,Wales,GK,75,33,75,Crystal Palace 
+451,Danny Ward,Wales,GK,74,27,75,Leicester City 
+452,Danny Ward,England,ST,69,29,69,Cardiff City 
+453,Ethan Ampadu,Wales,CB|CDM,68,19,86,RB Leipzig 
+454,Ben Davies,Wales,LB|LWB|LW,79,27,80,Tottenham Hotspur 
+455,Ben Davies,England,CB,73,24,80,Preston North End 
+456,Chris Gunter,Wales,RB|LB,67,31,67,Reading 
+457,Tom Lockyer,Wales,CB,70,25,75,Charlton Athletic 
+458,Chris Mepham,Wales,CB,74,22,82,AFC Bournemouth 
+459,Rhys Norrington-Davies,Wales,LB|LWB|LW,63,21,76,Rochdale 
+460,Connor Roberts,Wales,RB|LB,70,24,76,Swansea City 
+461,Joe Rodon,Wales,CB,70,22,79,Swansea City 
+462,Neco Williams,Wales,RB,64,19,82,Liverpool 
+463,Joe Allen,Wales,CDM|CM,73,30,73,Stoke City 
+464,David Brooks,Wales,RM,76,23,84,AFC Bournemouth 
+465,Daniel James,Wales,RM|LM,77,22,83,Manchester United 
+466,Dylan Levitt,Wales,CDM|CM|CAM,64,19,82,Manchester United 
+467,Joe Morrell,Wales,CM,68,23,76,Lincoln City 
+468,Aaron Ramsey,Wales,CM|CAM,83,29,83,Juventus 
+469,Harry Wilson,Wales,RM|CM,77,23,84,AFC Bournemouth 
+470,Gareth Bale,Wales,ST|RW|LW,85,31,85,Real Madrid 
+471,Kieffer Moore,Wales,ST,70,27,71,Wigan Athletic 
+472,Tyler Roberts,Wales,ST|CAM,70,21,81,Leeds United 
