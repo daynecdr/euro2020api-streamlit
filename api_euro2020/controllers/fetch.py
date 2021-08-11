@@ -1,0 +1,34 @@
+from app import app
+from flask import request
+from utils.json_response import json_response
+from utils.mongo_connect import mongo_read
+from utils.handle_error import handle_error
+
+@app.get('/')
+@handle_error
+def first_page():
+    return {'UEFA Euro 2020':'or was it 2021?',
+            'endpoints':'teams, players, matches',
+        }
+
+
+@app.get('/teams')
+@handle_error
+def get_teams():
+    q = dict(request.args)
+    print (q)    
+    return json_response(list(mongo_read('bdml_project','all_players_team',q)))
+    
+@app.get('/players')
+@handle_error
+def get_players():
+    q=dict(request.args)
+    print (q)
+    return json_response(list(mongo_read('bdml_project','player_stats_rec',q)))
+
+@app.get('/matches')
+@handle_error
+def get_matches():
+    q=dict(request.args)
+    print (q)
+    return json_response(list(mongo_read('bdml_project','matches_rec',q)))
