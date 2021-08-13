@@ -1,4 +1,6 @@
-# midbootproject_2021
+# STATUS=GREEN
+
+# midbootproject_2021 V1.0
 
     API creation for learning (and enjoyment) purposes
     The API draws info from a database found in MongoDB, which I prepared and uploaded
