@@ -12,6 +12,12 @@ def first_page():
             'endpoints':'teams, players, matches',
         }
 
+@app.get('/test')
+@handle_error
+def first_page():
+    return {'Uthis page':'was created',
+            'in order to check if':'endpoints are working',
+        }
 
 @app.get('/teams')
 @handle_error
@@ -40,4 +46,4 @@ def get_matches():
     if 'mongo_query' in q.keys():
         q=str_json(q['mongo_query'])
     print (q)
-    return json_response(list(mongo_read('bdml_project','matches_rec',q)))
+    return json_response(list(mongo_read('bdml_project','matches_rec',q).sort("_id",-1)))

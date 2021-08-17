@@ -3,18 +3,13 @@ from pymongo import MongoClient
 
 import sys
 import os
+from config import mongo_url
 
 sys.path.append(os.path.abspath('.'))
 
-from config import MONGO_URL
-
-client = MongoClient(MONGO_URL)
+client = MongoClient(mongo_url)
 
 def mongo_read(db, coll, query={}, project={'_id':0},client=client):
-    # for k,v in query.items():
-    #     if '{' in v:
-    #         query[k] = str_json
-
     collection = client.get_database(db)[coll]
     return collection.find(query,project)
 

@@ -8,7 +8,7 @@ def app():
     st.text('')
     st.text('')
         
-    match_select=st.slider('Use the following slide to select a match and get some info about it',min_value=50,max_value=0)
+    match_select=st.slider('Use the following slide to select a match and get some info about it',min_value=0,max_value=50)
 
     url_m='http://192.168.1.44:8080/matches'
     params={}
@@ -17,6 +17,7 @@ def app():
     header= st.empty()
     header.title('')
 
+    colA, colB, colC = st.columns(3)
     col1, col2, col3 = st.columns(3)
     
 
@@ -37,6 +38,8 @@ def app():
     poss2=match_to_show.get('possession_away')
     stage=match_to_show.get('stage')   
     if home:
+
+        colB.markdown(f'#### {stage}')
         #header.title(f'{home} {score1} : {away} {score2}\n{stage}')
         #col1.header('')
         col1.title(f'{home}')

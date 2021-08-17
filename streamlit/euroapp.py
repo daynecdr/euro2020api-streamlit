@@ -3,6 +3,20 @@ from multiapp import MultiApp
 from pages import home,teams,players,matches
 
 
+st.image('media/euro2020_logo.png')
+
+st.title("UEFA Euro 2020 \nor was it 2021?")
+
+app = MultiApp()
+
+app.add_app("Home", home.app)
+app.add_app("Matches", matches.app)
+app.add_app("Teams", teams.app)
+app.add_app("Players", players.app)
+
+
+app.run()
+
 ##########AUDIO##########
 # st.sidebar.markdown('##### An assortment of **_totally_ legal** songs for your enjoyment while you browse this site\n \n \n')
 # st.sidebar.text('')
@@ -27,19 +41,3 @@ from pages import home,teams,players,matches
 # st.sidebar.audio('../../media/golden.mp3')
 #########################
 #this files are commented out because they depend on local files
-
-st.image('media/euro2020_logo.png')
-
-st.title("UEFA Euro 2020 \nor was it 2021?")
-
-
-
-app = MultiApp()
-
-app.add_app("Home", home.app)
-app.add_app("Matches", matches.app)
-app.add_app("Teams", teams.app)
-app.add_app("Players", players.app)
-
-
-app.run()
