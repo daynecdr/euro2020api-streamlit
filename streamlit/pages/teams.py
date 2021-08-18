@@ -8,7 +8,7 @@ def app():
     st.text('')
  
 
-    url_t='http://192.168.1.44:8080/teams'
+    url_t='https://euro2020-api.herokuapp.com/teams'
     params={}
     team_to_show=requests.get(url_t,params).json()
 

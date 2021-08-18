@@ -14,8 +14,8 @@ def first_page():
 
 @app.get('/test')
 @handle_error
-def first_page():
-    return {'Uthis page':'was created',
+def test_page():
+    return {'this page':'was created',
             'in order to check if':'endpoints are working',
         }
 

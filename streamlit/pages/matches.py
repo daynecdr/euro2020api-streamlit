@@ -10,7 +10,7 @@ def app():
         
     match_select=st.slider('Use the following slide to select a match and get some info about it',min_value=0,max_value=50)
 
-    url_m='http://192.168.1.44:8080/matches'
+    url_m='https://euro2020-api.herokuapp.com/matches'
     params={}
     match_to_show=requests.get(url_m,params).json()[match_select]
     

@@ -113,7 +113,7 @@ def app():
     #params={'age':24}
     #params={"mongo_query": f'{{"$and":[{{"age":{None}}},{{"overall":}}]}}'}
     
-    url_p='http://192.168.1.44:8080/players'
+    url_p='https://euro2020-api.herokuapp.com/players'
     players_to_show=requests.get(url_p,params).json()
 
     #print(age_option,skill_option,nationality_option)
